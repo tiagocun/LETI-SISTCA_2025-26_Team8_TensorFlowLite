@@ -144,6 +144,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
 # Spyder project settings
 .spyderproject
 .spyproject
